@@ -1,0 +1,28 @@
+name: griotmedia
+favicon: null
+layout_spectrum: 0.4222011025995016
+typography_spectrum: 0.8568683126941323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4711493272334337
+  lightness: 0.4830070440657437
+  saturation: 0.021606046706438065
+  rhythmicContrast: 0.670432347105816
+purpose: []
